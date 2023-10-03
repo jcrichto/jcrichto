@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 🎥 I’m currently building: **jasoncrichton.com**
 
-- 🤝 I’m looking for help with [Vets Who Code](https://github.com/Vets-Who-Code)
-
 - 💬 Ask me about **UI Development with CSS/Javascript, UX Design, Git, React, Coffee, Tea, Cooking, 3d Printing, Home Automation**
 
 
