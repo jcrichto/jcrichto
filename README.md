@@ -5,10 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcrichto&theme=algolia&row=2&column=3" alt="jcrichto" /></a> </p>
 
+<p align="center">
+
 - 🎥 I’m currently building: **jasoncrichton.com**
 
 - 💬 Ask me about **UI Development with CSS/Javascript, UX Design, Git, React, Coffee, Tea, Cooking, 3d Printing, Home Automation**
 
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -17,8 +20,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,vscode,figma,git,github,react,graphql,webpack,gulp,jest,selenium,postman,bash,linux,vim,md,mysql,cloudflare,codepen,svg,devto,aws,netlify,docker,nginx,nodejs,raspberrypi,alpinejs,astro,wordpress,pr,ae,au,ai,ps" />
   </a>
 </p>
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcrichto&show_icons=true&locale=en&layout=compact" alt="jcrichto" /></p>
 
 
 <p align="center">
